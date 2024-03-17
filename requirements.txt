@@ -1,2 +1,4 @@
 langchain
 gradio
+
+These are the two required libraries that we will be using in this project.
